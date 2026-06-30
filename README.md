@@ -5,7 +5,7 @@ Aha!😜 You found me!
 💻 I use a MacBook Air (with M1 chip) that runs macOS.  
 🧑‍💻 My commonly used programming languages are **Rust** and **Python**.  
 ✅ I appreciate clean and concise code, and I always strive to write readable and maintainable programs.  
-📚 I enjoy reading Hugo's "Les Mis é rables".
+📚 I enjoy reading Hugo's "Les Mis é rables".  
 🍎 I really like Apple products. They have a great sense of design, and macOS is very friendly for both development and daily use.  
 🐧 I'm also a **Fedora contributor**, which is an awesome Linux distribution.
 
