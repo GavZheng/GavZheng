@@ -18,16 +18,15 @@ I'm always open to:
 - Reviewing code or pair programming.
 - Feedback on safety issues.
 
+*P.S. Due to my busy academic schedule, my responses to emails may be slightly delayed.*
+
 # Things I code with
 ![Rust](https://img.shields.io/badge/Rust-orange?&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6495ED?&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?&logo=cplusplus&logoColor=white)
-
 ![Github](https://img.shields.io/badge/Github-FAF9F6?&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-FFA005?&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-FAF9F6?&logo=apple&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-FAF9F6?&logo=fedora&logoColor=#51a2da)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FAF9F6?&logo=homebrew&logoColor=orange)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)
-
-Due to my busy academic schedule, my responses to emails may be slightly delayed.
