@@ -21,7 +21,7 @@ I'm always open to:
 
 *P.S. Due to my busy academic schedule, my responses to emails may be slightly delayed.*
 
-# Things I code with
+## Things I code with
 ![Rust](https://img.shields.io/badge/Rust-orange?&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6495ED?&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?&logo=cplusplus&logoColor=white)
