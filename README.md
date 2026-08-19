@@ -8,11 +8,12 @@ Aha!😜 You found me!
 📚 I enjoy reading Hugo's "Les Mis é rables".  
 🍎 I really like Apple products. They have a great sense of design, and macOS is very friendly for both development and daily use.  
 🐧 I'm also a **Fedora contributor**, which is an awesome Linux distribution.  
+
 ## My projects
 - 🦀 **wutong** : A Swiss Army Knife for Developers.(Recent suspension of updates)
 - 🦀 **baihua** : A team communication tool customized for developers.
 
-## 🤝 Let's connect!
+## Contact me
 I'm always open to:
 - Collaborating on open-source projects.
 - Reviewing code or pair programming.
