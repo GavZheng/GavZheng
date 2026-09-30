@@ -1,5 +1,4 @@
-# 👋 <Hi, I'm Gavin>
-Aha!😜 You found me!  
+# 👋 <Hi, I'm Gavin> 
 🏫 I am a high school student from Hangzhou, China.  
 📧 You can reach me via email at gav.zheng@outlook.com.  
 💻 I use a MacBook Air (with M1 chip) that runs macOS.  
